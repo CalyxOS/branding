@@ -5,6 +5,12 @@ This repository contains all branding related assets used in CalyxOS
 Calyx Institute assets
 ### calyxos
 CalyxOS assets
+
+Introducing CalyxOS Green:
+Hex = 99cc00
+RGB = r154 g204 b1
+CMYK = c45 m0 y100 k0
+
 ### bootanimation
 Shown every boot, present at: https://gitlab.com/calyxos/vendor_calyx/blob/pie/prebuilt/bootanimation.zip
 ### CalyxVPN
